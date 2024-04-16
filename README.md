@@ -8,3 +8,5 @@ from exercises pdf, they might not be available in the future)
 s6-mt mini-2324L  
 https://pages.mini.pw.edu.pl/~brodkaj/MT.html  
 
+Adding lexer and parser to vs 2022 solution  
+https://sourceforge.net/p/winflexbison/wiki/Visual%20Studio%20custom%20build%20rules/  
